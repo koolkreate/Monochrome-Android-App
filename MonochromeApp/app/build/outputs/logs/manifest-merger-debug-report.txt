@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/kwame/.gradle/caches/transforms-3/0bb400e541f7a3b0df1f16e0c7fd33e7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/kwame/.gradle/caches/transforms-3/0535df06c46db1dbb51112f81bc455d9/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/kwame/.gradle/caches/transforms-3/3fe3d5099253b69200aea9e0f314372b/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/kwame/.gradle/caches/transforms-3/b151135fd20c8581c91631033bc3af3c/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/kwame/.gradle/caches/transforms-3/85aefea127b88b3a6393fbf16193072a/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/kwame/.gradle/caches/transforms-3/28b67ab7c430f4a3aafa31bd71eeeb67/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kwame/.gradle/caches/transforms-3/322568431029f5b717090ae2ebfc9439/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/kwame/.gradle/caches/transforms-3/5a873aae3896dd8713f542a6c8995af7/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/kwame/.gradle/caches/transforms-3/b5e176ddfaccec2e11cb12255e2a0827/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.7.0] /home/kwame/.gradle/caches/transforms-3/87f33e530eb5ae983f94646a353c6184/transformed/media-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kwame/.gradle/caches/transforms-3/08afb52cf50c769908850771b7254cb6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/kwame/.gradle/caches/transforms-3/243d9aec3da43f966ed427cdc0c37222/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kwame/.gradle/caches/transforms-3/0de823ef79e1141bc02444bc507e9e18/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kwame/.gradle/caches/transforms-3/7aacb2bc6bac90bea32f1f434d284789/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kwame/.gradle/caches/transforms-3/d2c3c83e9d839cccd8b0b559afbd0951/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kwame/.gradle/caches/transforms-3/dd8462e4720e7da51be8497afa0cbabb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/kwame/.gradle/caches/transforms-3/b0079801ac32e90cd680f7945847c849/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/kwame/.gradle/caches/transforms-3/18e7ffe4b50ee68c5b3dbb9926bff87b/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/kwame/.gradle/caches/transforms-3/365459d4d86ae024b4a7dfa3750b261a/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kwame/.gradle/caches/transforms-3/8f3ae07a99e597a001f40d7952f6528f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/kwame/.gradle/caches/transforms-3/7c39d7ad5ee54cb30be971b15f40a6c0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kwame/.gradle/caches/transforms-3/395e55d5069294e79a867abdb638edb3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/kwame/.gradle/caches/transforms-3/ded3603f3740bb04713a828b718927d4/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/kwame/.gradle/caches/transforms-3/43b38a664aecfa2584996d95e1a6121b/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kwame/.gradle/caches/transforms-3/3be5bf8dcb020675a4627d5908750279/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kwame/.gradle/caches/transforms-3/522c50786e78f140fa6cfdc350df7e75/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kwame/.gradle/caches/transforms-3/6017708f1767b05d45499c6b4cc13b21/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/kwame/.gradle/caches/transforms-3/5415aee78a439ce91d46f6d7dfd663a0/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kwame/.gradle/caches/transforms-3/69afc263d791f9790a5c253afa15ec00/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:8:5-92
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:8:22-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:9:22-74
+application
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:11:5-39:19
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/kwame/.gradle/caches/transforms-3/0bb400e541f7a3b0df1f16e0c7fd33e7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/kwame/.gradle/caches/transforms-3/0bb400e541f7a3b0df1f16e0c7fd33e7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kwame/.gradle/caches/transforms-3/395e55d5069294e79a867abdb638edb3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kwame/.gradle/caches/transforms-3/395e55d5069294e79a867abdb638edb3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:13:9-39
+	android:hardwareAccelerated
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:15:9-65
+activity#com.sample.monochome.MainActivity
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:18:9-33:20
+	android:exported
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:monochrome.samidy.com+data:host:monochrome.samidy.com+data:pathPattern:/.*+data:pathPattern:/.*+data:scheme:http+data:scheme:https
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:26:13-32:29
+action#android.intent.action.VIEW
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:28:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:29:17-78
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:29:27-75
+data
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:17-111
+	android:host
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:46-82
+	android:scheme
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:23-45
+	android:pathPattern
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:83-108
+service#com.sample.monochome.MediaPlaybackService
+ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:35:9-38:61
+	android:exported
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:37:13-37
+	android:foregroundServiceType
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:36:13-49
+uses-sdk
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/kwame/.gradle/caches/transforms-3/0bb400e541f7a3b0df1f16e0c7fd33e7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/kwame/.gradle/caches/transforms-3/0bb400e541f7a3b0df1f16e0c7fd33e7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/kwame/.gradle/caches/transforms-3/0535df06c46db1dbb51112f81bc455d9/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/kwame/.gradle/caches/transforms-3/0535df06c46db1dbb51112f81bc455d9/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/kwame/.gradle/caches/transforms-3/3fe3d5099253b69200aea9e0f314372b/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/kwame/.gradle/caches/transforms-3/3fe3d5099253b69200aea9e0f314372b/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/kwame/.gradle/caches/transforms-3/b151135fd20c8581c91631033bc3af3c/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/kwame/.gradle/caches/transforms-3/b151135fd20c8581c91631033bc3af3c/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/kwame/.gradle/caches/transforms-3/85aefea127b88b3a6393fbf16193072a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/kwame/.gradle/caches/transforms-3/85aefea127b88b3a6393fbf16193072a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/kwame/.gradle/caches/transforms-3/28b67ab7c430f4a3aafa31bd71eeeb67/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/kwame/.gradle/caches/transforms-3/28b67ab7c430f4a3aafa31bd71eeeb67/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kwame/.gradle/caches/transforms-3/322568431029f5b717090ae2ebfc9439/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kwame/.gradle/caches/transforms-3/322568431029f5b717090ae2ebfc9439/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/kwame/.gradle/caches/transforms-3/5a873aae3896dd8713f542a6c8995af7/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/kwame/.gradle/caches/transforms-3/5a873aae3896dd8713f542a6c8995af7/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/kwame/.gradle/caches/transforms-3/b5e176ddfaccec2e11cb12255e2a0827/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/kwame/.gradle/caches/transforms-3/b5e176ddfaccec2e11cb12255e2a0827/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.7.0] /home/kwame/.gradle/caches/transforms-3/87f33e530eb5ae983f94646a353c6184/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] /home/kwame/.gradle/caches/transforms-3/87f33e530eb5ae983f94646a353c6184/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kwame/.gradle/caches/transforms-3/08afb52cf50c769908850771b7254cb6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kwame/.gradle/caches/transforms-3/08afb52cf50c769908850771b7254cb6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/kwame/.gradle/caches/transforms-3/243d9aec3da43f966ed427cdc0c37222/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/kwame/.gradle/caches/transforms-3/243d9aec3da43f966ed427cdc0c37222/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kwame/.gradle/caches/transforms-3/0de823ef79e1141bc02444bc507e9e18/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kwame/.gradle/caches/transforms-3/0de823ef79e1141bc02444bc507e9e18/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kwame/.gradle/caches/transforms-3/7aacb2bc6bac90bea32f1f434d284789/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kwame/.gradle/caches/transforms-3/7aacb2bc6bac90bea32f1f434d284789/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kwame/.gradle/caches/transforms-3/d2c3c83e9d839cccd8b0b559afbd0951/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kwame/.gradle/caches/transforms-3/d2c3c83e9d839cccd8b0b559afbd0951/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kwame/.gradle/caches/transforms-3/dd8462e4720e7da51be8497afa0cbabb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kwame/.gradle/caches/transforms-3/dd8462e4720e7da51be8497afa0cbabb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/kwame/.gradle/caches/transforms-3/b0079801ac32e90cd680f7945847c849/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/kwame/.gradle/caches/transforms-3/b0079801ac32e90cd680f7945847c849/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/kwame/.gradle/caches/transforms-3/18e7ffe4b50ee68c5b3dbb9926bff87b/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/kwame/.gradle/caches/transforms-3/18e7ffe4b50ee68c5b3dbb9926bff87b/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/kwame/.gradle/caches/transforms-3/365459d4d86ae024b4a7dfa3750b261a/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/kwame/.gradle/caches/transforms-3/365459d4d86ae024b4a7dfa3750b261a/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kwame/.gradle/caches/transforms-3/8f3ae07a99e597a001f40d7952f6528f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kwame/.gradle/caches/transforms-3/8f3ae07a99e597a001f40d7952f6528f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/kwame/.gradle/caches/transforms-3/7c39d7ad5ee54cb30be971b15f40a6c0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/kwame/.gradle/caches/transforms-3/7c39d7ad5ee54cb30be971b15f40a6c0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kwame/.gradle/caches/transforms-3/395e55d5069294e79a867abdb638edb3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kwame/.gradle/caches/transforms-3/395e55d5069294e79a867abdb638edb3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/kwame/.gradle/caches/transforms-3/ded3603f3740bb04713a828b718927d4/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/kwame/.gradle/caches/transforms-3/ded3603f3740bb04713a828b718927d4/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/kwame/.gradle/caches/transforms-3/43b38a664aecfa2584996d95e1a6121b/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/kwame/.gradle/caches/transforms-3/43b38a664aecfa2584996d95e1a6121b/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kwame/.gradle/caches/transforms-3/3be5bf8dcb020675a4627d5908750279/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kwame/.gradle/caches/transforms-3/3be5bf8dcb020675a4627d5908750279/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kwame/.gradle/caches/transforms-3/522c50786e78f140fa6cfdc350df7e75/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kwame/.gradle/caches/transforms-3/522c50786e78f140fa6cfdc350df7e75/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kwame/.gradle/caches/transforms-3/6017708f1767b05d45499c6b4cc13b21/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kwame/.gradle/caches/transforms-3/6017708f1767b05d45499c6b4cc13b21/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/kwame/.gradle/caches/transforms-3/5415aee78a439ce91d46f6d7dfd663a0/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/kwame/.gradle/caches/transforms-3/5415aee78a439ce91d46f6d7dfd663a0/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kwame/.gradle/caches/transforms-3/69afc263d791f9790a5c253afa15ec00/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kwame/.gradle/caches/transforms-3/69afc263d791f9790a5c253afa15ec00/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/kwame/.gradle/caches/transforms-3/32ea73e37ac65d97fc45df4c9ec4a558/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.sample.monochome.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.sample.monochome.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

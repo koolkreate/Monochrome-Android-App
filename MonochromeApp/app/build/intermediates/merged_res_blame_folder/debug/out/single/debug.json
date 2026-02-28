@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kwame/.gradle/daemon/8.4/com.sample.monochome.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "/home/kwame/.gradle/daemon/8.4/com.sample.monochome.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kwame/.gradle/daemon/8.4/com.sample.monochome.app-merged_res-23:/drawable_ic_like.xml.flat",
+        "source": "/home/kwame/.gradle/daemon/8.4/com.sample.monochome.app-main-25:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "/home/kwame/.gradle/daemon/8.4/com.sample.monochome.app-merged_res-23:/drawable_ic_like_filled.xml.flat",
+        "source": "/home/kwame/.gradle/daemon/8.4/com.sample.monochome.app-main-25:/drawable/ic_like_filled.xml"
+    },
+    {
+        "merged": "com.sample.monochome.app-merged_res-23:/drawable_ic_like.xml.flat",
+        "source": "com.sample.monochome.app-main-25:/drawable/ic_like.xml"
+    }
+]

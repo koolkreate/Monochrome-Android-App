@@ -1,0 +1,133 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sample.monochome"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- REQUIRED: Internet Permission to load external URLs -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:6:5-67
+12-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:7:5-77
+13-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+14-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:8:5-92
+14-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:8:22-89
+15    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+15-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:9:5-77
+15-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:9:22-74
+16
+17    <permission
+17-->[androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+18        android:name="com.sample.monochome.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.sample.monochome.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:11:5-39:19
+24        android:allowBackup="true"
+24-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:12:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.12.0] /home/kwame/.gradle/caches/transforms-3/37e2ec6515df4d9413630431476ba7b9/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:hardwareAccelerated="true"
+28-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:16:9-43
+29        android:label="Monochrome App"
+29-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:13:9-39
+30        android:supportsRtl="true"
+30-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:14:9-35
+31        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+31-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:15:9-65
+32        <activity
+32-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:18:9-33:20
+33            android:name="com.sample.monochome.MainActivity"
+33-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:19:13-41
+34            android:exported="true" >
+34-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:20:13-36
+35            <intent-filter>
+35-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:21:13-24:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:22:17-69
+36-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:22:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:23:17-77
+38-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:23:27-74
+39            </intent-filter>
+40            <!-- Deep Linking / App Links -->
+41            <intent-filter>
+41-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:26:13-32:29
+42                <action android:name="android.intent.action.VIEW" />
+42-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:27:17-69
+42-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:27:25-66
+43
+44                <category android:name="android.intent.category.DEFAULT" />
+44-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:28:17-76
+44-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:28:27-73
+45                <category android:name="android.intent.category.BROWSABLE" />
+45-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:29:17-78
+45-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:29:27-75
+46
+47                <data
+47-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:17-111
+48                    android:host="monochrome.samidy.com"
+48-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:46-82
+49                    android:pathPattern="/.*"
+49-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:83-108
+50                    android:scheme="https" />
+50-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:23-45
+51                <data
+51-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:17-111
+52                    android:host="monochrome.samidy.com"
+52-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:46-82
+53                    android:pathPattern="/.*"
+53-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:83-108
+54                    android:scheme="http" />
+54-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:30:23-45
+55            </intent-filter>
+56        </activity>
+57
+58        <service
+58-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:35:9-38:61
+59            android:name="com.sample.monochome.MediaPlaybackService"
+59-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:36:13-49
+60            android:exported="false"
+60-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:37:13-37
+61            android:foregroundServiceType="mediaPlayback" />
+61-->/mnt/c/Users/katwu/Documents/music-app/MonochromeApp/app/src/main/AndroidManifest.xml:38:13-58
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+65            android:authorities="com.sample.monochome.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.2.0] /home/kwame/.gradle/caches/transforms-3/a6b2e27bbb79a2b826ddfb0e575950fc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/kwame/.gradle/caches/transforms-3/05fa290527d0fd04ab8657f4c675af77/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+73        </provider>
+74    </application>
+75
+76</manifest>
